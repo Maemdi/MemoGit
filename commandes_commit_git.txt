@@ -1,0 +1,25 @@
+COMMANDES GIT :
+
+
+git status : indique par exemple si on a des fichiers ou des changements à indexer, ou que l'on doit commiter, etc.
+
+
+git init : à taper DANS le dossier concerné, pour activer un 
+dossier comme repository Git
+
+
+git add NomDuFichier.txt : pour ajouter un fichier à l'index
+
+
+git commit -m "Commentaire décrivant ce qu'on a modifié 
+ou ajouté" : pour faire un commit, pour enregistrer une modification
+
+
+git commit -a -m "Commentaire" : condense git add et git commit
+
+
+git log : pour afficher la liste de tous les commits réalisés
+
+
+
+
