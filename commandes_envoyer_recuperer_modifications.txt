@@ -1,0 +1,11 @@
+COMMANDES POUR SYNCHRONISER SON CODE LOCAL AVEC SES REPOS EN LIGNE :
+
+
+git pull origin master : permet de récupérer en local les 
+dernières modifications du repo GitHub
+
+
+git push origin master : permet d'envoyer sur GitHub les 
+dernières modifications faites en local
+
+
