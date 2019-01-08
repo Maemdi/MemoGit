@@ -1,0 +1,25 @@
+COMMANDES DE BASE DU TERMINAL :
+
+
+
+pwd : connaître son répertoire courant
+
+
+ls : voir la liste des fichiers et des répertoires dans le dossier courant
+
+
+cd NomDuRépertoire : se placer dans un répertoire
+
+
+cd ~ : revenir dans son répertoire principal
+
+
+touch NomDuFichier.txt : créer un fichier
+
+
+mkdir NomDuDossier : créer un dossier
+
+
+cat MonFichier.txt : afficher le contenu d'un fichier
+
+
